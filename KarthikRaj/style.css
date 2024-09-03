@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    font-style: calc(1);
+    border-top-color: cadetblue;
+    
+    background-color: rgb(100, 34, 10);
+}
+h2,h3,h4{
+    text-align: center;
+    font-style: oblique;
+    background-color: honeydew;
+    
+ }
+ .head2 {
+    background-color: rgb(15, 18, 13);
+    margin:80px ;
+    padding:29px ;
+    border: 3px;
+    background-size: cover;
+}
+ h6{text-align: left;}
+ p{
+    background-image: url("https://johnstillk8.scusd.edu/sites/main/files/main-images/camera_lense_0.jpeg");
+    background-repeat: no-repeat;
+    background-position-x: inherit;
+    text-transform: capitalize;
+    
+ }
+ li{
+list-style-type: circle;
+    list-style-position: outside;
+    list-style-position: inside;
+ }
+ img{width: 1500px;
+    height:1500px;
+
+ }
+ table,th,td{
+    border: solid;
+    text-align: justify;
+    width: 50px;
+    height: 100px;
+ }
+ 
+ 
